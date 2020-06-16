@@ -17,7 +17,7 @@ async def amireallyalive(alive):
                      f"`My peru owner`: {DEFAULTUSER}\n\n"
                      "`Indian Bot Version:` [1.0](https://telegra.ph/INDIAN-06-15-6)\n`Python:` **3.7.4**\n"
                      "`Database Status:` **😀ALL OK**\n\n`Always with you, my master!\n`"
-                     "**Bot Creator:** [🇮🇳INDIAN BHAI](t.me/pureindialover)\n"
-                     "**Co-Owner:** [🇮🇳AKASH](t.me/AKASH_AM1)\n\n"
-                     "     [🇮🇳Deploy This IndianBot🇮🇳](https://github.com/indianbhaiya/IndianBot)") 
+                     "**Bot Creator:** [🇮🇳INDIAN BHAU](t.me/OFFICIAL_MADRACER)\n"
+                     "**Co-Owner:** [🇮🇳VIKRAMADITY](t.me/Vikramaditya1190)\n\n"
+                     "     [🇮🇳THIS BOT BORN TO FUCK HARD 🇮🇳](t.me/Aditya1190)") 
 
